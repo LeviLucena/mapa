@@ -44,10 +44,8 @@ As cores dos municípios são determinadas com base nos seguintes critérios:
 
 Contribuições são bem-vindas! Se você deseja contribuir com este projeto, siga estas etapas:
 
-## Autor
-
-Este projeto foi desenvolvido por [Seu Nome], e é mantido pela comunidade.
-
 ## Licença
 
-Este projeto está licenciado sob a Licença MIT.
+Este projeto está licenciado sob a [Licença MIT](LICENSE).
+
+## Autor: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/levilucena/)](https://www.linkedin.com/in/levilucena/)
