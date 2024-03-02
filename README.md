@@ -1,4 +1,4 @@
-# Mapa de São Paulo
+# Mapa de calor usando HTML, CSS, Javascript, Leaflet, Fetch API e OpenStreetMap
 
 Este é um projeto que exibe informações sobre casos de arboviroses, nos municípios do estado de São Paulo no formato de um mapa de calor, utilizando bibliotecas para a renderização e interação com os dados geográficos nos municípios representados mediante cores que indicam o nível de incidência dos casos. Para simular casos de doenças transmitidas por vetores, foram gerados dados aleatórios para cada município, mas nada impede que seja utilizado uma conexão via API ou Banco de dados. Além disso, o projeto é responsivo e se adapta a diferentes tamanhos de tela, garantindo uma boa experiência de usuário em dispositivos móveis e desktops.
 
