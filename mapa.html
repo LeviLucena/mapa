@@ -79,6 +79,13 @@
             [-19.766, -44.196]  // Nordeste de São Paulo
         ];
 
+        <!--  Utilize estas coordenadas caso troque o mapa de SP pelo RJ
+        // Coordenadas do sudoeste e nordeste do Rio de Janeiro para definir o foco apenas no estado
+        var bounds = [
+            [-19.970722, -43.182365], // Sudoeste do Rio de Janeiro
+            [-23.746875, -42.097506] // Nordeste do Rio de Janeiro
+        ]; -->
+
         // Criar o mapa Leaflet focado apenas em São Paulo
         var map = L.map('map', {
             maxBounds: bounds,
