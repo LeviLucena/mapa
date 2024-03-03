@@ -25,7 +25,9 @@ https://github.com/LeviLucena/mapa/assets/34045910/f7695cb4-6133-4e72-b216-25dc8
 
 ## Bibliotecas Utilizadas
 
-- **Leaflet.js:** Biblioteca JavaScript de código aberto para mapas interativos.
+- **Leaflet:** Uma biblioteca JavaScript de código aberto amplamente utilizada para criar mapas interativos em páginas da web. No código fornecido, Leaflet é usado para renderizar o mapa e manipular camadas de dados geoespaciais.
+- **Fetch API:** Uma API nativa do navegador que permite fazer solicitações HTTP assíncronas (como solicitações de dados GeoJSON) em JavaScript. No código fornecido, a Fetch API é utilizada para carregar o arquivo de dados GeoJSON dos - municípios de São Paulo.
+- **OpenStreetMap:** Um serviço de mapas de código aberto que fornece dados geoespaciais e um mapa base que pode ser incorporado em páginas da web. No código fornecido, é utilizado como a camada base do mapa.
 
 ## Arquivo JSON
 
