@@ -42,9 +42,7 @@ As cores dos municípios são determinadas com base nos seguintes critérios:
 
 ## Contribuindo
 
-Contribuições são bem-vindas! Se você desejar contribuir com este projeto.
-
-Veja o meu artigo no [LinkedIn](https://www.linkedin.com/pulse/crie-um-mapa-de-calor-usando-html-css-javascript-leaflet-levi-lucena-9fjuf/?trackingId=eflpNGD9R66ixMJv13QwKQ%3D%3D).
+Contribuições são bem-vindas! Veja o meu artigo no [LinkedIn](https://www.linkedin.com/pulse/crie-um-mapa-de-calor-usando-html-css-javascript-leaflet-levi-lucena-9fjuf/?trackingId=eflpNGD9R66ixMJv13QwKQ%3D%3D).
 
 
 ## Licença
